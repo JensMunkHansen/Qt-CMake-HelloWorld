@@ -38,3 +38,4 @@ CMake Command Line, Visual Studio 2015, Clang 4.0.1, Qt 5.9.1, 64 bit: Run vcvar
 
 ### Everything Else 
 Everything else is untested. Submissions welcome.
+TESTING
